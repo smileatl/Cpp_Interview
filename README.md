@@ -6,7 +6,7 @@
 
 
 
-## 👩‍💻 [工作](/work/)
+## 👩‍💻 工作
 - **编程语言** 👇
   - [cpp](./10.cpp.md)
   - [cpp_stl](20.cpp_stl.md)
@@ -29,7 +29,7 @@
   - [设计模式](130.设计模式.md)
   - [系统设计](140.系统设计.md)
 
-## 💪 [项目](/project/)
+## 💪 项目
 - [mynetlib](https://github.com/smileatl/mynetlib)
 - [mymprpc](https://github.com/smileatl/MyRPC)
 - [mytinystl](https://github.com/smileatl/mytinystl)
